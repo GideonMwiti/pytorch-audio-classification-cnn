@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "snd_001",
+    "filename": "snd_001_siren.wav",
+    "filepath": "data/audio/snd_001_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_002",
+    "filename": "snd_002_siren.wav",
+    "filepath": "data/audio/snd_002_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_003",
+    "filename": "snd_003_siren.wav",
+    "filepath": "data/audio/snd_003_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_004",
+    "filename": "snd_004_siren.wav",
+    "filepath": "data/audio/snd_004_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_005",
+    "filename": "snd_005_siren.wav",
+    "filepath": "data/audio/snd_005_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_006",
+    "filename": "snd_006_siren.wav",
+    "filepath": "data/audio/snd_006_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_007",
+    "filename": "snd_007_siren.wav",
+    "filepath": "data/audio/snd_007_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_008",
+    "filename": "snd_008_siren.wav",
+    "filepath": "data/audio/snd_008_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_009",
+    "filename": "snd_009_siren.wav",
+    "filepath": "data/audio/snd_009_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_010",
+    "filename": "snd_010_siren.wav",
+    "filepath": "data/audio/snd_010_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_011",
+    "filename": "snd_011_siren.wav",
+    "filepath": "data/audio/snd_011_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_012",
+    "filename": "snd_012_siren.wav",
+    "filepath": "data/audio/snd_012_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_013",
+    "filename": "snd_013_siren.wav",
+    "filepath": "data/audio/snd_013_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_014",
+    "filename": "snd_014_siren.wav",
+    "filepath": "data/audio/snd_014_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_015",
+    "filename": "snd_015_siren.wav",
+    "filepath": "data/audio/snd_015_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_016",
+    "filename": "snd_016_siren.wav",
+    "filepath": "data/audio/snd_016_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_017",
+    "filename": "snd_017_siren.wav",
+    "filepath": "data/audio/snd_017_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_018",
+    "filename": "snd_018_siren.wav",
+    "filepath": "data/audio/snd_018_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_019",
+    "filename": "snd_019_siren.wav",
+    "filepath": "data/audio/snd_019_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_020",
+    "filename": "snd_020_siren.wav",
+    "filepath": "data/audio/snd_020_siren.wav",
+    "category": "siren",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_021",
+    "filename": "snd_021_drilling.wav",
+    "filepath": "data/audio/snd_021_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_022",
+    "filename": "snd_022_drilling.wav",
+    "filepath": "data/audio/snd_022_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_023",
+    "filename": "snd_023_drilling.wav",
+    "filepath": "data/audio/snd_023_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_024",
+    "filename": "snd_024_drilling.wav",
+    "filepath": "data/audio/snd_024_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_025",
+    "filename": "snd_025_drilling.wav",
+    "filepath": "data/audio/snd_025_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_026",
+    "filename": "snd_026_drilling.wav",
+    "filepath": "data/audio/snd_026_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_027",
+    "filename": "snd_027_drilling.wav",
+    "filepath": "data/audio/snd_027_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_028",
+    "filename": "snd_028_drilling.wav",
+    "filepath": "data/audio/snd_028_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_029",
+    "filename": "snd_029_drilling.wav",
+    "filepath": "data/audio/snd_029_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_030",
+    "filename": "snd_030_drilling.wav",
+    "filepath": "data/audio/snd_030_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_031",
+    "filename": "snd_031_drilling.wav",
+    "filepath": "data/audio/snd_031_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_032",
+    "filename": "snd_032_drilling.wav",
+    "filepath": "data/audio/snd_032_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_033",
+    "filename": "snd_033_drilling.wav",
+    "filepath": "data/audio/snd_033_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_034",
+    "filename": "snd_034_drilling.wav",
+    "filepath": "data/audio/snd_034_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_035",
+    "filename": "snd_035_drilling.wav",
+    "filepath": "data/audio/snd_035_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_036",
+    "filename": "snd_036_drilling.wav",
+    "filepath": "data/audio/snd_036_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_037",
+    "filename": "snd_037_drilling.wav",
+    "filepath": "data/audio/snd_037_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_038",
+    "filename": "snd_038_drilling.wav",
+    "filepath": "data/audio/snd_038_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_039",
+    "filename": "snd_039_drilling.wav",
+    "filepath": "data/audio/snd_039_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_040",
+    "filename": "snd_040_drilling.wav",
+    "filepath": "data/audio/snd_040_drilling.wav",
+    "category": "drilling",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_041",
+    "filename": "snd_041_dog_bark.wav",
+    "filepath": "data/audio/snd_041_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_042",
+    "filename": "snd_042_dog_bark.wav",
+    "filepath": "data/audio/snd_042_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_043",
+    "filename": "snd_043_dog_bark.wav",
+    "filepath": "data/audio/snd_043_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_044",
+    "filename": "snd_044_dog_bark.wav",
+    "filepath": "data/audio/snd_044_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_045",
+    "filename": "snd_045_dog_bark.wav",
+    "filepath": "data/audio/snd_045_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_046",
+    "filename": "snd_046_dog_bark.wav",
+    "filepath": "data/audio/snd_046_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_047",
+    "filename": "snd_047_dog_bark.wav",
+    "filepath": "data/audio/snd_047_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_048",
+    "filename": "snd_048_dog_bark.wav",
+    "filepath": "data/audio/snd_048_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_049",
+    "filename": "snd_049_dog_bark.wav",
+    "filepath": "data/audio/snd_049_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_050",
+    "filename": "snd_050_dog_bark.wav",
+    "filepath": "data/audio/snd_050_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_051",
+    "filename": "snd_051_dog_bark.wav",
+    "filepath": "data/audio/snd_051_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_052",
+    "filename": "snd_052_dog_bark.wav",
+    "filepath": "data/audio/snd_052_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_053",
+    "filename": "snd_053_dog_bark.wav",
+    "filepath": "data/audio/snd_053_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_054",
+    "filename": "snd_054_dog_bark.wav",
+    "filepath": "data/audio/snd_054_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_055",
+    "filename": "snd_055_dog_bark.wav",
+    "filepath": "data/audio/snd_055_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_056",
+    "filename": "snd_056_dog_bark.wav",
+    "filepath": "data/audio/snd_056_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_057",
+    "filename": "snd_057_dog_bark.wav",
+    "filepath": "data/audio/snd_057_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_058",
+    "filename": "snd_058_dog_bark.wav",
+    "filepath": "data/audio/snd_058_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_059",
+    "filename": "snd_059_dog_bark.wav",
+    "filepath": "data/audio/snd_059_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_060",
+    "filename": "snd_060_dog_bark.wav",
+    "filepath": "data/audio/snd_060_dog_bark.wav",
+    "category": "dog_bark",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_061",
+    "filename": "snd_061_rain.wav",
+    "filepath": "data/audio/snd_061_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_062",
+    "filename": "snd_062_rain.wav",
+    "filepath": "data/audio/snd_062_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_063",
+    "filename": "snd_063_rain.wav",
+    "filepath": "data/audio/snd_063_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_064",
+    "filename": "snd_064_rain.wav",
+    "filepath": "data/audio/snd_064_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_065",
+    "filename": "snd_065_rain.wav",
+    "filepath": "data/audio/snd_065_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_066",
+    "filename": "snd_066_rain.wav",
+    "filepath": "data/audio/snd_066_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_067",
+    "filename": "snd_067_rain.wav",
+    "filepath": "data/audio/snd_067_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_068",
+    "filename": "snd_068_rain.wav",
+    "filepath": "data/audio/snd_068_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_069",
+    "filename": "snd_069_rain.wav",
+    "filepath": "data/audio/snd_069_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_070",
+    "filename": "snd_070_rain.wav",
+    "filepath": "data/audio/snd_070_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_071",
+    "filename": "snd_071_rain.wav",
+    "filepath": "data/audio/snd_071_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_072",
+    "filename": "snd_072_rain.wav",
+    "filepath": "data/audio/snd_072_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_073",
+    "filename": "snd_073_rain.wav",
+    "filepath": "data/audio/snd_073_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_074",
+    "filename": "snd_074_rain.wav",
+    "filepath": "data/audio/snd_074_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_075",
+    "filename": "snd_075_rain.wav",
+    "filepath": "data/audio/snd_075_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_076",
+    "filename": "snd_076_rain.wav",
+    "filepath": "data/audio/snd_076_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_077",
+    "filename": "snd_077_rain.wav",
+    "filepath": "data/audio/snd_077_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_078",
+    "filename": "snd_078_rain.wav",
+    "filepath": "data/audio/snd_078_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_079",
+    "filename": "snd_079_rain.wav",
+    "filepath": "data/audio/snd_079_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_080",
+    "filename": "snd_080_rain.wav",
+    "filepath": "data/audio/snd_080_rain.wav",
+    "category": "rain",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_081",
+    "filename": "snd_081_engine_idle.wav",
+    "filepath": "data/audio/snd_081_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_082",
+    "filename": "snd_082_engine_idle.wav",
+    "filepath": "data/audio/snd_082_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_083",
+    "filename": "snd_083_engine_idle.wav",
+    "filepath": "data/audio/snd_083_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_084",
+    "filename": "snd_084_engine_idle.wav",
+    "filepath": "data/audio/snd_084_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_085",
+    "filename": "snd_085_engine_idle.wav",
+    "filepath": "data/audio/snd_085_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_086",
+    "filename": "snd_086_engine_idle.wav",
+    "filepath": "data/audio/snd_086_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_087",
+    "filename": "snd_087_engine_idle.wav",
+    "filepath": "data/audio/snd_087_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_088",
+    "filename": "snd_088_engine_idle.wav",
+    "filepath": "data/audio/snd_088_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_089",
+    "filename": "snd_089_engine_idle.wav",
+    "filepath": "data/audio/snd_089_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_090",
+    "filename": "snd_090_engine_idle.wav",
+    "filepath": "data/audio/snd_090_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_091",
+    "filename": "snd_091_engine_idle.wav",
+    "filepath": "data/audio/snd_091_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_092",
+    "filename": "snd_092_engine_idle.wav",
+    "filepath": "data/audio/snd_092_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_093",
+    "filename": "snd_093_engine_idle.wav",
+    "filepath": "data/audio/snd_093_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_094",
+    "filename": "snd_094_engine_idle.wav",
+    "filepath": "data/audio/snd_094_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_095",
+    "filename": "snd_095_engine_idle.wav",
+    "filepath": "data/audio/snd_095_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_096",
+    "filename": "snd_096_engine_idle.wav",
+    "filepath": "data/audio/snd_096_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_097",
+    "filename": "snd_097_engine_idle.wav",
+    "filepath": "data/audio/snd_097_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_098",
+    "filename": "snd_098_engine_idle.wav",
+    "filepath": "data/audio/snd_098_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_099",
+    "filename": "snd_099_engine_idle.wav",
+    "filepath": "data/audio/snd_099_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_100",
+    "filename": "snd_100_engine_idle.wav",
+    "filepath": "data/audio/snd_100_engine_idle.wav",
+    "category": "engine_idle",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_101",
+    "filename": "snd_101_gunshot.wav",
+    "filepath": "data/audio/snd_101_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_102",
+    "filename": "snd_102_gunshot.wav",
+    "filepath": "data/audio/snd_102_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_103",
+    "filename": "snd_103_gunshot.wav",
+    "filepath": "data/audio/snd_103_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_104",
+    "filename": "snd_104_gunshot.wav",
+    "filepath": "data/audio/snd_104_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_105",
+    "filename": "snd_105_gunshot.wav",
+    "filepath": "data/audio/snd_105_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_106",
+    "filename": "snd_106_gunshot.wav",
+    "filepath": "data/audio/snd_106_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_107",
+    "filename": "snd_107_gunshot.wav",
+    "filepath": "data/audio/snd_107_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_108",
+    "filename": "snd_108_gunshot.wav",
+    "filepath": "data/audio/snd_108_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_109",
+    "filename": "snd_109_gunshot.wav",
+    "filepath": "data/audio/snd_109_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_110",
+    "filename": "snd_110_gunshot.wav",
+    "filepath": "data/audio/snd_110_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_111",
+    "filename": "snd_111_gunshot.wav",
+    "filepath": "data/audio/snd_111_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_112",
+    "filename": "snd_112_gunshot.wav",
+    "filepath": "data/audio/snd_112_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_113",
+    "filename": "snd_113_gunshot.wav",
+    "filepath": "data/audio/snd_113_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_114",
+    "filename": "snd_114_gunshot.wav",
+    "filepath": "data/audio/snd_114_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_115",
+    "filename": "snd_115_gunshot.wav",
+    "filepath": "data/audio/snd_115_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "train"
+  },
+  {
+    "id": "snd_116",
+    "filename": "snd_116_gunshot.wav",
+    "filepath": "data/audio/snd_116_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_117",
+    "filename": "snd_117_gunshot.wav",
+    "filepath": "data/audio/snd_117_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_118",
+    "filename": "snd_118_gunshot.wav",
+    "filepath": "data/audio/snd_118_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_119",
+    "filename": "snd_119_gunshot.wav",
+    "filepath": "data/audio/snd_119_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  },
+  {
+    "id": "snd_120",
+    "filename": "snd_120_gunshot.wav",
+    "filepath": "data/audio/snd_120_gunshot.wav",
+    "category": "gunshot",
+    "duration_sec": 2.0,
+    "sample_rate": 16000,
+    "split": "test"
+  }
+]

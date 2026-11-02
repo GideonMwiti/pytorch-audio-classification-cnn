@@ -1,0 +1,339 @@
+{
+  "model_architecture": "4-Stage 2D-CNN (AudioSpectrogramCNN)",
+  "num_classes": 6,
+  "classes": [
+    "siren",
+    "drilling",
+    "dog_bark",
+    "rain",
+    "engine_idle",
+    "gunshot"
+  ],
+  "test_accuracy": 100.0,
+  "macro_precision": 100.0,
+  "macro_recall": 100.0,
+  "macro_f1": 100.0,
+  "mean_latency_ms": 7.768336931864421,
+  "confusion_matrix": [
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
+  ],
+  "test_samples": [
+    {
+      "id": "snd_016",
+      "filename": "snd_016_siren.wav",
+      "ground_truth": "siren",
+      "predicted": "siren",
+      "confidence": 0.9742053747177124,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_017",
+      "filename": "snd_017_siren.wav",
+      "ground_truth": "siren",
+      "predicted": "siren",
+      "confidence": 0.9747214913368225,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_018",
+      "filename": "snd_018_siren.wav",
+      "ground_truth": "siren",
+      "predicted": "siren",
+      "confidence": 0.9743894934654236,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_019",
+      "filename": "snd_019_siren.wav",
+      "ground_truth": "siren",
+      "predicted": "siren",
+      "confidence": 0.9743790030479431,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_020",
+      "filename": "snd_020_siren.wav",
+      "ground_truth": "siren",
+      "predicted": "siren",
+      "confidence": 0.9747743606567383,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_036",
+      "filename": "snd_036_drilling.wav",
+      "ground_truth": "drilling",
+      "predicted": "drilling",
+      "confidence": 0.9640757441520691,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_037",
+      "filename": "snd_037_drilling.wav",
+      "ground_truth": "drilling",
+      "predicted": "drilling",
+      "confidence": 0.9631536602973938,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_038",
+      "filename": "snd_038_drilling.wav",
+      "ground_truth": "drilling",
+      "predicted": "drilling",
+      "confidence": 0.9657700061798096,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_039",
+      "filename": "snd_039_drilling.wav",
+      "ground_truth": "drilling",
+      "predicted": "drilling",
+      "confidence": 0.9652426242828369,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_040",
+      "filename": "snd_040_drilling.wav",
+      "ground_truth": "drilling",
+      "predicted": "drilling",
+      "confidence": 0.9656131863594055,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_056",
+      "filename": "snd_056_dog_bark.wav",
+      "ground_truth": "dog_bark",
+      "predicted": "dog_bark",
+      "confidence": 0.9836505055427551,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_057",
+      "filename": "snd_057_dog_bark.wav",
+      "ground_truth": "dog_bark",
+      "predicted": "dog_bark",
+      "confidence": 0.9756758213043213,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_058",
+      "filename": "snd_058_dog_bark.wav",
+      "ground_truth": "dog_bark",
+      "predicted": "dog_bark",
+      "confidence": 0.976535975933075,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_059",
+      "filename": "snd_059_dog_bark.wav",
+      "ground_truth": "dog_bark",
+      "predicted": "dog_bark",
+      "confidence": 0.9848013520240784,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_060",
+      "filename": "snd_060_dog_bark.wav",
+      "ground_truth": "dog_bark",
+      "predicted": "dog_bark",
+      "confidence": 0.9837520122528076,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_076",
+      "filename": "snd_076_rain.wav",
+      "ground_truth": "rain",
+      "predicted": "rain",
+      "confidence": 0.9788128137588501,
+      "is_correct": true,
+      "latency_ms": 7.871448993682861
+    },
+    {
+      "id": "snd_077",
+      "filename": "snd_077_rain.wav",
+      "ground_truth": "rain",
+      "predicted": "rain",
+      "confidence": 0.9787303805351257,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_078",
+      "filename": "snd_078_rain.wav",
+      "ground_truth": "rain",
+      "predicted": "rain",
+      "confidence": 0.9783824682235718,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_079",
+      "filename": "snd_079_rain.wav",
+      "ground_truth": "rain",
+      "predicted": "rain",
+      "confidence": 0.9791083931922913,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_080",
+      "filename": "snd_080_rain.wav",
+      "ground_truth": "rain",
+      "predicted": "rain",
+      "confidence": 0.9788898229598999,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_096",
+      "filename": "snd_096_engine_idle.wav",
+      "ground_truth": "engine_idle",
+      "predicted": "engine_idle",
+      "confidence": 0.9617829918861389,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_097",
+      "filename": "snd_097_engine_idle.wav",
+      "ground_truth": "engine_idle",
+      "predicted": "engine_idle",
+      "confidence": 0.9644339680671692,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_098",
+      "filename": "snd_098_engine_idle.wav",
+      "ground_truth": "engine_idle",
+      "predicted": "engine_idle",
+      "confidence": 0.961076021194458,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_099",
+      "filename": "snd_099_engine_idle.wav",
+      "ground_truth": "engine_idle",
+      "predicted": "engine_idle",
+      "confidence": 0.9594611525535583,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_100",
+      "filename": "snd_100_engine_idle.wav",
+      "ground_truth": "engine_idle",
+      "predicted": "engine_idle",
+      "confidence": 0.9617898464202881,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_116",
+      "filename": "snd_116_gunshot.wav",
+      "ground_truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 0.9786466956138611,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_117",
+      "filename": "snd_117_gunshot.wav",
+      "ground_truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 0.9784398674964905,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_118",
+      "filename": "snd_118_gunshot.wav",
+      "ground_truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 0.9795334339141846,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_119",
+      "filename": "snd_119_gunshot.wav",
+      "ground_truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 0.9795283079147339,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    },
+    {
+      "id": "snd_120",
+      "filename": "snd_120_gunshot.wav",
+      "ground_truth": "gunshot",
+      "predicted": "gunshot",
+      "confidence": 0.9799854755401611,
+      "is_correct": true,
+      "latency_ms": 7.650494575500488
+    }
+  ]
+}
